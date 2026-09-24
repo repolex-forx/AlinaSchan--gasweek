@@ -42,7 +42,8 @@
       "ast": [
         "aggregate/ast/deb2d217d7cba07fbfb7f7507b90ce62fe36e737/chunk-001.nq.gz"
       ],
-      "lsp": "aggregate/lsp/deb2d217d7cba07fbfb7f7507b90ce62fe36e737.nq.gz"
+      "lsp": "aggregate/lsp/deb2d217d7cba07fbfb7f7507b90ce62fe36e737.nq.gz",
+      "repolex": "aggregate/repolex/deb2d217d7cba07fbfb7f7507b90ce62fe36e737/chunk-001.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
