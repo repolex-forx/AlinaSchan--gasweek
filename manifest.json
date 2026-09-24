@@ -1,0 +1,48 @@
+{
+  "manifest_version": "1.0",
+  "org": "AlinaSchan",
+  "repo": "gasweek",
+  "versions": [
+    {
+      "commit": "deb2d217d7cba07fbfb7f7507b90ce62fe36e737",
+      "parsed_at": "2026-09-24T12:39:33.600516+00:00",
+      "tag": "main",
+      "filetree": "filetree/deb2d217d7cba07fbfb7f7507b90ce62fe36e737.nq.gz",
+      "blobs": [
+        "blob/2d3a86a857e94e5a46fe4939dcb7a2f1813db9f6.nq.gz",
+        "blob/f382081d4ab826ca21c0007da4ed951977b55ba1.nq.gz",
+        "blob/dd8a8c90e6b7af74ed3657ef5b74aaa5ebf0abd4.nq.gz",
+        "blob/d999cae37f8eeddfae0e8aa8a7ea390751308cf5.nq.gz",
+        "blob/76750e647c749e2a0f259cfe4d0fb79bc8637222.nq.gz",
+        "blob/106b76299d4db9a9f8ff337b898157f44cbe79d3.nq.gz",
+        "blob/839c66244a050a4141d7f43f3969442d6db48b4d.nq.gz",
+        "blob/629785e9917ba6d5291154aaa4469e632f2c1685.nq.gz",
+        "blob/2bd6118dbe3615a2284673c308feae0e54f48b9b.nq.gz",
+        "blob/81c29dc6b8a3af27f37980ae6e494b272812993d.nq.gz",
+        "blob/98781a2a39174d2a5eba6600cb81fffcc0ddf4f8.nq.gz",
+        "blob/042464dc9b99375cc7e4c3c662a8a2b585e30b87.nq.gz",
+        "blob/57ef6544cc2791de7237eb9f79fffb08d156080e.nq.gz",
+        "blob/bfaa65f1d5386440942b79b6a33ef0470f2f1881.nq.gz",
+        "blob/554807664a3ce11a9b6d3a63c0d5bd01f3a8b21d.nq.gz",
+        "blob/c184d5b15de830529292b825c2f96d5e0255280d.nq.gz",
+        "blob/1757a3dc8b49e06e1dd67d5fa2b51105672c4e07.nq.gz",
+        "blob/c1cb0fca4f1e2ac343b2126481f573a82c02969d.nq.gz",
+        "blob/a4edb914c2285639daea0341870c7e302ad9432e.nq.gz",
+        "blob/a62c248e1ffa5507a023c47196d87e8b4854f2c5.nq.gz",
+        "blob/11a4389f3c246c48de11631ba4e1892fed09f612.nq.gz",
+        "blob/c30c62e6f3a5f846c6e9f3fc83b987371442cdb3.nq.gz",
+        "blob/efe3f6a5e17fde4c025eed5c024d02465a997eb6.nq.gz",
+        "blob/0ef17d892c10d347e004095e576266ad693ef5fd.nq.gz",
+        "blob/3be38dc2f181982ff9ddece548c5498977f88bc3.nq.gz",
+        "blob/0aeefc2bdbdd1570d91573b0daae2ae7701342c4.nq.gz",
+        "blob/0633232bfd99675631ebeabc00c168108311298c.nq.gz",
+        "blob/54940d589943cdd5cba14b437a3ff4808cf9909d.nq.gz",
+        "blob/dc9f418ca619c5e2b9922d5d3b9e3f5bd9888067.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
